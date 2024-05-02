@@ -54,7 +54,7 @@ Y variable : 'cnt'.
 
  There are a total of 17 features with a total of 17379 observations.
 
- ![alt text](image-7.png)
+![image-7](https://github.com/sunnyhemanth1/ML-Project/assets/77020216/93587c3f-f2d6-49c3-a065-754a14b7d63e)
 
  instant       0.629896
 season        0.404584
@@ -116,12 +116,12 @@ In our project we mainly focused on the metric called error as we primarily focu
 3	Decision Tree - SF, Min Sample Leaf -                    721326.552281
 4	Random Forest - SF Min Sample Leaf -                     488865.761871	
 
-![alt text](image-4.png)
 
-![alt text](image-5.png)
+![image-6](https://github.com/sunnyhemanth1/ML-Project/assets/77020216/453ac893-5f95-4f6a-823e-aee5632b5ded)
 
-![alt text](image-6.png)
+![image-5](https://github.com/sunnyhemanth1/ML-Project/assets/77020216/9d478c60-ed7a-4fb8-a6ea-9b32c230d4b5)
 
+![image-4](https://github.com/sunnyhemanth1/ML-Project/assets/77020216/784f587a-a8cc-4bd2-a0c6-e4232da54e52)
 
 
 ### Production 
